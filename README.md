@@ -13,7 +13,7 @@ This project predicts rainfall using machine learning techniques. It processes h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Rainfall-Prediction.git
+   https://github.com/Nash0810/Rainfall-Prediction.git
    cd Rainfall-Prediction-main
    ```
 
